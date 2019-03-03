@@ -1,0 +1,32 @@
+header{
+    background: url(img/BGM.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    min-height: 680px;
+   
+}
+@media screen and (max-width: 670px){
+    header{
+        min-height: 500px;
+    }
+}
+.ft-na{
+    font-family: 'Dancing Script', cursive;
+
+
+}
+.ft-na2{
+    font-family: 'Dancing Script', cursive;
+ 
+
+}
+
+.img-siz{
+    max-width: 200px;
+    max-height: 200px;
+}
+.img-lv-siz{
+    max-width: 20px;
+    max-height: 20px;
+}
